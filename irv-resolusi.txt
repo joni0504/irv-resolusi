@@ -4,3 +4,5 @@ irv-resolusi
 -konsisten dalam pengembangan web
 -konsisten dalam belajar code-code baru
 -Soon to bee a fullstack
+-build a modern web porofolio
+-kolaborasi dengan lebih banyak expert
