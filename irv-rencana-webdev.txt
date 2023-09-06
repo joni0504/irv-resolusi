@@ -3,6 +3,7 @@ RENCAANA WEB DEVELOPER
 -Javascript 
   *ES6
   *Framework Js
+-Struktur data dasar
 -Java
 -PHP Framework
 -PostgresSQL
