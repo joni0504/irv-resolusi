@@ -1,0 +1,9 @@
+RENCAANA WEB DEVELOPER 
+
+-Javascript 
+  *ES6
+  *Framework Js
+-Java
+-PHP Framework
+-PostgresSQL
+-Vlogs
